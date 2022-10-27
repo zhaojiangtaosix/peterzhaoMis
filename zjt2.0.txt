@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+printf("haha2.0");
+return 0;
+}
